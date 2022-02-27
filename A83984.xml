@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands petition to King Charles. Or, An humble petition of the distressed and almost destroyed subjects of England, to the Kings most excellent Majestie, now at the Isle of Wight, that ye would yeeld to His Parliament in all their reasonable demands in the treatie there. Containing the very sense of all the loyall-hearted true lovers of the King.</title>
+            <title>Englands petition to their King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83984</idno>
+            <idno type="STC">Wing E3012</idno>
+            <idno type="STC">Thomason E462_21</idno>
+            <idno type="STC">ESTC R205074</idno>
+            <idno type="EEBO-CITATION">99864515</idno>
+            <idno type="PROQUEST">99864515</idno>
+            <idno type="VID">162200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E462[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands petition to King Charles. Or, An humble petition of the distressed and almost destroyed subjects of England, to the Kings most excellent Majestie, now at the Isle of Wight, that ye would yeeld to His Parliament in all their reasonable demands in the treatie there. Containing the very sense of all the loyall-hearted true lovers of the King.</title>
+                  <title>Englands petition to their King.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in the month that the Scots Army were utterly overthrown, and Colchester taken,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. ye 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162200:1" rendition="simple:additions"/>
+            <p>ENGLANDS PETITION To KING CHARLES.</p>
+            <p>
+               <hi>OR,</hi> An humble <hi>Petition</hi> of the diſtreſſed and almoſt deſtroyed Subjects of ENGLAND,</p>
+            <p>To the KINGS moſt excellent Majeſtie, now at the Iſle of <hi>Wight,</hi> That He would yeeld to His <hi>Parliament</hi> in all their reaſonable Demands in the Treatie there.</p>
+            <p>Containing the very ſenſe of all the loyall-hearted true lovers of the KING.</p>
+            <q>Better ſave ſomething then looſe all.</q>
+            <p>
+               <add>Dept y<hi rend="sup">e</hi> 8<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON:</hi> Printed in the Month that the <hi>Scots</hi> Army were utterly overthrown, and <hi>Colcheſter</hi> taken. 1648.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb n="2" facs="tcp:162200:2"/>
+            <head>To the obvious not deſired Reader.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">G</seg>Ood Friend,</salute>
+            </opener>
+            <p>We would have you know this Petition was intended onely for His Majeties view, but conſidering what power his pretended friends have with Him, we think fit to ſubmit it to common view, and to turn it out, in hope His <hi>Majeſtie</hi> may be induced ſeriouſly to read it, and lay to heart the diſtreſſe of the miſera<g ref="char:EOLhyphen"/>ble: if you cenſure it as the work of ſome few diſcontented per<g ref="char:EOLhyphen"/>ſons, Know you it is the ſenſe of our<note n="*" place="margin">The North and North<g ref="char:EOLhyphen"/>we<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of <hi>England,</hi> with <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<g ref="char:EOLhyphen"/>bitants of <hi>Colcheſter.</hi>
+               </note> part of the Kingdom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and if you will promiſe us hopes of ſucceſſe, we'll ſoon return it you with the hands of <hi>1000000.</hi> If you condemn us for ſpeaking too plainly, Know that miſery makes men forget good manners; and dying men uſe not complements; We are in the caſi of the <hi>I</hi> epers, <hi>If we ſit ſtill we periſh,</hi> therefore we will move in the way of hope, and go in to the King, though it be not according to Law, and <hi>if we periſh we periſh.</hi> Yet know, we will come farre ſhort of the plainneſſe of better perſons and times, <hi>2 Sam. 7.12. 1 King. 18.18. &amp;c.&amp;c.&amp;c.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter_of_petition">
+            <pb n="3" facs="tcp:162200:2"/>
+            <head>
+               <hi>To the Kings moſt Excellent Majeſty;</hi> The humble P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion of many of Your diſtreſſed and almoſt deſtroyed Subjects of Your King<g ref="char:EOLhyphen"/>dome of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">D</seg>READ SOVERAIGNE,</salute>
+            </opener>
+            <p>It's a double grief to our ſouls, that we ſhould be conſtrained to begge for our lives at Your hands, who are bound by the Law of God and nature, and by Your Oath, to preſerve them, and that we ſhould be forced to en<g ref="char:EOLhyphen"/>treat You to ſpare our eſtates, liberties, and blood, whoſe ho<g ref="char:EOLhyphen"/>nour and ſtrength depends ſo much on theſe our enjoyments: But extremity prevaileth and drives us to You, and caſteth us here proſtrate at the feet of Your Majeſty: And let not Your Ma<g ref="char:EOLhyphen"/>jeſtie be offended, if we ſpeak more plainly then uſually be<g ref="char:EOLhyphen"/>cometh us; for neceſſitie hath no law: It is for our lives and more, and therefore blame us not to ſpeak; our friends, our wives, our children, our wants, our dangers, our Countrey, our blood, do all pierce our ears and hearts with their daily and dolefull cryes; Oh that our requeſts could finde as quick acceſſe to Yours! Surely it's impoſſible Your Majeſtie ſhould be igno<g ref="char:EOLhyphen"/>rant of the dolefull condition Your two Kingdoms are in; Do You not know that our houſes are re-plundred, and the fruit of our new labours taken from us; that men who have heretofore relieved hundreds of the poore, have not left them a bed to lye on, food to ſuſtain them, or an houſe to put their heads in? And the poore they were wont to relieve, are forced to become Soul<g ref="char:EOLhyphen"/>diers, that they may rob us by authoritie. Know You not how many thouſand diſtreſſed ſouls cry to God day and night, in their anguiſh and miſery, while they ſee You the Father of their Countrey, having no compaſſion on them? You were wont if we loſt our eſtates by Pyrates, or but an houſe by fire, to grant
+<pb n="4" facs="tcp:162200:3"/>Your gracious Letters Patents for our relief; but now Your Souldiers rob us of all, and burn our houſes to the ground. You were wont to relieve Your Subjects when taken by Pyrates, and made Gally-ſlaves; and now the loathſome priſons are filled with their miſerable, ſtarved, diſeaſed bodies, who (ſome of them) would think themſelves half free-men were they Turkiſh Gally-ſlaves; ſuch is their cruell uſage. Know You not how our Corn lyes uncut, and devoured by Souldiers, who ſeiſe upon our horſes and ſheep, and eat the bread out of our mouthes? and what can follow this but extreame famine? Know You not how our blood is ſpilt, and the dead bodies of Your Subjects ſcattered as dung on the face of the earth? Have not your eyes ſeen it, and your ears heard the groans of the wounded, gaſping for life? Is all this nothing in your ears? To whom ſhould Your people go but to Your Majeſtie in this our diſtreſſe? We have tryed all other known means, and profeſſe in the ſight of God, we know none but Your Majeſtie, under God, that can deliver us without more blood and deſolation; and the world knows it is in your hands, You may do it if you will; and do it eaſily, and do it with increaſe of Your honour, ſafetie, and happineſſe. What if it were to part with ſomething of Your right, yet ſhould not your M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſtie do it to ſave the life of Your people, from whom, and for whoſe good, You firſt re<g ref="char:EOLhyphen"/>ceived it?</p>
+            <p>
+               <hi>Dread Soveraigne,</hi> We beſeech You conſider, what hath your Parliament and people done, that deſerves all this from You? Is it becauſe your Parliament relieved us from oppreſſing Courts, and illegall taxations? Was it not with your own con<g ref="char:EOLhyphen"/>ſent? and is it not your glory, to be King of a rich and free <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eo<g ref="char:EOLhyphen"/>ple? Is it becauſe they proſecute Delinquents? Why, to what end are your Courts of Juſtice elſe? and are not they your chief<g ref="char:EOLhyphen"/>eſt Court? And can thoſe be friends to You, and worth the de<g ref="char:EOLhyphen"/>fending, that are enemies to your Kingdoms? For your Forts and Navy, are they not yours for your Kingdoms good? And is not your Parliament, the Kingdom repreſentative? We know your Majeſtie cannot mannage them in your own perſon, but by y<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Miniſters, and thoſe choſen by Counſell; and can You or the Kingdom poſſibly judge any more able, impartiall, and
+<pb n="5" facs="tcp:162200:3"/>faith<g ref="char:EOLhyphen"/>full to adviſe You in this, then your Parliament? They medled not with it, till abſolute neceſſitie conſtrained; till they ſaw <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in rebellion, the Rebels threatning <hi>England<g ref="char:punc">▪</g>
+               </hi> and their own lives and the Kingdom in preſent apparent jeopardy, by the ſame ſpirits as malignant and active at home, and your Maje<g ref="char:EOLhyphen"/>ſties conſent to their Bill denyed. We cannot but ſee the ſame Counſels that ſet your Majeſtie againſt your Parliament, which cauſed their ſo long diſcontinuance, which cauſed the Ship<g ref="char:EOLhyphen"/>money, and other illegall taxations, which cauſed the late in<g ref="char:EOLhyphen"/>novations in Church and State, which cauſed the warre with <hi>Scotland,</hi> which broke up the laſt Parliament, and cauſed that invective Declaration againſt them, in the very language of the preſent times, to be reſtleſſe in their endeavours to carry on their wicked deſignes by raiſing a new warre. They deſire no<g ref="char:EOLhyphen"/>thing more then your concurrence; and we know if humble Petitions or loyall affections would procure it, there would not have been ſo long a diſtance. Neither is there any viſible means left, but either the Parliament muſt give up our ſtates, liberties, lives and Religion to the diſpoſe of your too-long tryed ſecret Councell, and make your Majeſties meer will the onely Law, and ſo betray their Countrey, and the truſt committed to them; (which God forbid) or elſe defend us by the ſword.</p>
+            <p>And for us your people, what have we done that we are made a common ſpoyl? Would your Majeſty deſire us (which we will never do) perfidiouſly to betray them whom we have truſted? and to kill them whom we have choſen to ſave us? and deſtroy thoſe who are our ſelves repreſentatively? Then ſhould we be the diſgrace of the <hi>Engliſh</hi> Nation, the reproach of our poſte<g ref="char:EOLhyphen"/>ritie, the very ſhame of Nature, and ſhould preſently expect ſome ſtrange judgement of God, according to the ſtrangeneſſe of our offence. It's true, we are forced to take <hi>Antidotum contra Caeſarem;</hi> or rather to ſave our throats from the violence of de<g ref="char:EOLhyphen"/>ſperate perſons; But we beſeech You call not this bearing Arms againſt You; it may be againſt your will; but if any of your now followers be more reſpective of your royall Authoritie eſtabliſhed by Law, more truly tender of your perſon and ho<g ref="char:EOLhyphen"/>nour then we; then let not God proſper our proceedings, but cauſe us to fall before them, and give us up into their hands.</p>
+            <pb n="6" facs="tcp:162200:4"/>
+            <p> We are fallen upon by the cruell, and becauſe we will not dye quietly, and without reſiſtance, we are accu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed as tray<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and enemies to your Majeſtie. We beſeech your Maje<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e, conſider in the preſence of God, if your own Father and King had run up<g ref="char:EOLhyphen"/>on you with his drawn ſword, whether would You have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uf<g ref="char:EOLhyphen"/>fered death without reſiſtance, or have taken the ſword <hi>pro t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<g ref="char:EOLhyphen"/>pore</hi> out of his hand? and yet neither be averſe to his honour and perſon, or his propriety in his weapon. Doth not Nature teach us the preſervation of our ſelves? will not the eye wink<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without deliberation? and the ſmalleſt worme turn back, if you tread on it? And beſide nature, we have frequent preſidents in ſacred Writ, for even more then defenſive reſiſtance of Tranſ<g ref="char:EOLhyphen"/>cendent Monarke, 1 <hi>Sam.</hi> 14.44, 45. 1 <hi>Sam.</hi> 23.11, 12. 2 <hi>King.</hi> 1.10.12, 13. 2 <hi>Chron.</hi> 26.18.20. <hi>Dan.</hi> 6.14. &amp;c. But if all this were nothing, yet we know your Majeſtie hath paſſed an Act for the continuance of this Parliament: and ſure that Act muſt needs mean a Parliament with it's power and authoritie, and not the meer name and carkaſſe of a Parliament; It's not onely that they ſhall ſtay together in <hi>London,</hi> and do nothing, or no more then another Court; but that they continue your chief Counſell, your chief Court, and have ſole legiſlative power, which are your Parliaments peculiar properties: And if your Majeſtie hath enacted the continuance of a reall Parli<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ment in it's power, who ſeeth not that You have thereby joyned with them your royall Authority, though not your perſon? where<g ref="char:EOLhyphen"/>fore we hope your Majeſtie muſt needs diſcern that we fight not againſt You, but for your known eſtabliſht Authority in Parlia<g ref="char:EOLhyphen"/>ment. And we hope your Majeſtie will not deny them to be your entire Parliament; for is the Act recall'd whereby they were eſtabliſhed? if not, how can they ſeaſe to be your Parlia<g ref="char:EOLhyphen"/>ment? neither let the fault be layed on part of them; for we all know the major part hath the authority of the whole; and if it were the minor part, why did not, or doth not the major over-vote them? And we beſeech your Majeſtie blame us not to think our Religion and all lyes at the ſtake, while we look back by what a train Popery had been almoſt brought upon us by that party, and ſee them ſtill the chief in favour, and when ſo many Pap<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſts <hi>Engliſh</hi> and forreigne are now in Arms againſt us, and
+<pb n="7" facs="tcp:162200:4"/>know no one Papiſt in the Land that is not zealous in the cauſe. Wonder not, <hi>Dread Soveraign,</hi> if we hardly beleeve that thoſe come now to ſave us, who in 88. and the Powder Plot, would ſo cruelly have deſtroyed us: that Papiſts ſhould be moſt zealous in fighting for the Proteſtant Religion, and Delinquents (pro<g ref="char:EOLhyphen"/>ceeded againſt in parliament,) ſhould ſtand for the priviledges and Laws of the Parliament; that oppreſſing Monopoliſts ſhou d fight for the Subjects liberties, ſeem all riddles and paradoxes to us. Blame us nor, we beſſech You, to fear, while we ſee no contradiction appear to Mounſieur <hi>de Cheſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> his book, ſold openly for many yeers, not in <hi>Paris</hi> onely, but in <hi>London,</hi> and read at Court, which records your Majeſties Letter to the Pope, promiſing to venture Crown and all to unite us to <hi>Rome</hi> again.</p>
+            <p>
+               <hi>Dread Soveraigne,</hi> many Princes have gone aſtray through ſtrength of temptation, and after have been happy in repenting and returning; Oh that the <hi>Lord</hi> would make it your caſe, and glorifie his mercy on You and us, in making known to You the thing concerning our peace, and not his Juſtice in hardning You to deſtruction: that it may never be read in our Chronicle by the generations to come, that <hi>England</hi> had a Prince who lived and dyed in ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>king the deſolation of his people, and the Church of God, and would not be wrought upon either by mercie or judgement. Your Majeſty knoweth there is a King and a Judge above You; before whom You muſt very ſhortly ſtand and give account of your Government; We deſire You in the preſence of that God, to think, and think ſeriouſly, and think again how ſad it will be, to have all this blood charged on your ſoul; Can your Majeſtie think of this with comfort when You are dying? Can theſe Counſellors that now put you on, then bring You as ſafely off? do you not ſee how the hand of God is againſt them in all they do? And are there not many deſpe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate Levellers that plot the ruin of Kingly Government? Your Majeſty may deſpiſe what we ſay, and call away our Pe<g ref="char:EOLhyphen"/>tition, and judge us your enemies, becauſe we tell you the truth, and ſpeak as dying men in the ſorrow of our ſouls; but You can<g ref="char:EOLhyphen"/>not ſo put by Diuine Juſtice, or quiet conſcience at the la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t: As true as the Lord liveth, your Majeſtie will one d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y know that Blaſphemers, Papiſts, and flatterers, are not your friends; but
+<pb n="8" facs="tcp:162200:5"/>plain dealers, who do aſſure You, the way You take, tends to the utter ruine and deſtruction of your Self and Kingdom. And can <hi>your heart endure,</hi> or can <hi>your hands</hi> be <hi>ſtrong</hi> in <hi>the day</hi> the <hi>Lord</hi> will reckon with <hi>Y<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u</hi> for <hi>His</hi> people committed to your charge! O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>! ſuppoſe You now heard the blood of your people already ſpilt, crying in your ears, and ſaw the many thouſands yet li<g ref="char:EOLhyphen"/>ving a life worſe then death, lying in their ſorrows at your feet, crying for pitie, help, Oh King help, or we loſe our liberties, Laws, lives and Religion; help that your Self and Royall po<g ref="char:EOLhyphen"/>ſteritie, be not ruined: help as ever You would have God help You in the day of death and judgement, when your Self ſhall cry for help and pitie; help that deliverance come not ſome other way, while You and your Fathers houſe are deſtroyed. The Lord God of our hopes, who hath for our ſins moſt juſtly afflicted us in You, give your Majeſtie a diſcerning eye, an holy and tender heart, to yeeld to the Petition of your diſtreſſed Sub<g ref="char:EOLhyphen"/>jects, <hi>To concur with your Parliament,</hi> that God and man may for<g ref="char:EOLhyphen"/>get your miſtakings, and You may be the bleſſedeſt Prince that ever reigned in our Land, the terrour of your reall enemies, the joy of your people, and the glory of poſteritie; Such ſhall be the daily and heartie prayers of</p>
+            <closer>
+               <signed>Your Majeſties loyall (how ever eſteemed) Subjects, &amp;c.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
